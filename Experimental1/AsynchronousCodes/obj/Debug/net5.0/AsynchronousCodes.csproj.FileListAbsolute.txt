@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\CodeProject\Experimental1\AsynchronousCodes\obj\Debug\net5.0\AsynchronousCodes.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\AsynchronousCodes\obj\Debug\net5.0\AsynchronousCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CodeProject\Experimental1\AsynchronousCodes\obj\Debug\net5.0\AsynchronousCodes.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\AsynchronousCodes\obj\Debug\net5.0\AsynchronousCodes.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CodeProject\Experimental1\AsynchronousCodes\obj\Debug\net5.0\AsynchronousCodes.csproj.CoreCompileInputs.cache

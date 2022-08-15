@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\bin\Debug\DisplayApp.exe.config
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\bin\Debug\DisplayApp.exe
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\bin\Debug\DisplayApp.pdb
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\obj\Debug\DisplayApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\obj\Debug\DisplayApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\obj\Debug\DisplayApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\obj\Debug\DisplayApp.exe
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DisplayApp\obj\Debug\DisplayApp.pdb

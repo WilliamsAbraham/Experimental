@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Experimental1/1.0.0": {
+        "dependencies": {
+          "PinGen": "1.0.0"
+        },
+        "runtime": {
+          "Experimental1.dll": {}
+        }
+      },
+      "PinGen/1.0.0": {
+        "runtime": {
+          "PinGen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Experimental1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PinGen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

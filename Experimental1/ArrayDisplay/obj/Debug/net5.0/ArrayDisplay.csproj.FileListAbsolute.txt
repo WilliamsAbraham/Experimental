@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\bin\Debug\net5.0\ArrayDisplay.exe
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\bin\Debug\net5.0\ArrayDisplay.deps.json
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\bin\Debug\net5.0\ArrayDisplay.runtimeconfig.json
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\bin\Debug\net5.0\ArrayDisplay.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\bin\Debug\net5.0\ArrayDisplay.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\bin\Debug\net5.0\ArrayDisplay.pdb
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\refint\ArrayDisplay.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.pdb
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ArrayDisplay.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\ArrayDisplay\obj\Debug\net5.0\ref\ArrayDisplay.dll

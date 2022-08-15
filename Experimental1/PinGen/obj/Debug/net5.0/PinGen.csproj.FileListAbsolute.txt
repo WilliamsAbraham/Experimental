@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\bin\Debug\net5.0\PinGen.deps.json
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\bin\Debug\net5.0\PinGen.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\bin\Debug\net5.0\PinGen.pdb
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\PinGen.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\PinGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\PinGen.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\PinGen.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\PinGen.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\PinGen.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\refint\PinGen.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\PinGen.pdb
+C:\Users\DELL\Desktop\CodeProject\Experimental1\PinGen\obj\Debug\net5.0\ref\PinGen.dll

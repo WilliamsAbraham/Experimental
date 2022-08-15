@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.exe
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.deps.json
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.runtimeconfig.json
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\bin\Debug\net5.0\DaysOfTheWeek.pdb
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\refint\DaysOfTheWeek.dll
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.pdb
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\DaysOfTheWeek.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CodeProject\Experimental1\DaysOfTheWeek\obj\Debug\net5.0\ref\DaysOfTheWeek.dll
